@@ -7,3 +7,6 @@
 # 系统文件
 Thumbs.db
 .DS_Store
+
+# 截图渲染脚本与原始输出
+.shots_src/
