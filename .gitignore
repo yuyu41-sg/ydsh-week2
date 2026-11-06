@@ -1,0 +1,9 @@
+# 数据文件与密钥不入库
+*.csv
+*.log
+*.key
+.env
+
+# 系统文件
+Thumbs.db
+.DS_Store
